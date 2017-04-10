@@ -16,11 +16,6 @@ ASP17SCM37B
 ASP17SCM83P
 ASP17SCM79C
 
-<<<<<<< HEAD
-Last Name Added
-
-=======
-
 Last Name Added
 SSP17SCM05A
->>>>>>> origin/master
+
